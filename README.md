@@ -52,7 +52,7 @@ Official project page is at [https://github.com/pwm-project/pwm/](https://github
 
 Build pre-requisites:
 * Java 1.8 JDK or newer
-* Maven 3.2 or newer
+* Maven 3.5 or newer
 
 Build execution:
 * Set `JAVA_HOME` environment variable to JDK home  
